@@ -22,6 +22,11 @@
                   location="SOUNDDEMO\"
                   protocol="sounddemo.prtx"
                   name="Sound Demonstration Protocol" />
+
+        <protocol id="tactiledemo"
+                  location="TACTILEDEMO\"
+                  protocol="tactiledemo.prtx"
+                  name="Tactile Demonstration Protocol" />
     </protocols>
 </repository>
 
