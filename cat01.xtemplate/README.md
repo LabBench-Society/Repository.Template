@@ -1,3 +1,3 @@
-﻿# Scripting Demonstration Protocol (```scriptdemo```)
+﻿# Protocol Template (```xtemplate```)
 
 
