@@ -58,6 +58,6 @@ An tool for editing these files would be to install [Visual Studio](https://visu
 
 First the most fundamental rule about LabBench Protocol Repositories:
 
-1. What turns a folder into a LabBench Protocol Repository is that this folder MUST contain a ```repository.xml``` file that specifies the protocols within this repository.
+1. What turns a folder into a LabBench Protocol Repository is that this folder MUST contain a `repository.xml` file that specifies the protocols within this repository.
 
-This ```repository.xml``` file is what is loaded/downloaded by LabBench in order to provide the list of available protocols on the Protocols page in the LabBench Designer.
+This `repository.xml` file is what is loaded/downloaded by LabBench in order to provide the list of available protocols on the Protocols page in the LabBench Designer.
