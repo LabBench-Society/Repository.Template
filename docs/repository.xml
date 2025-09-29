@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-            xsi:noNamespaceSchemaLocation="https://labbench.io/xsd/4.0.0/repository.xsd"
-            id="example.labbench.io">
-    <protocols>
+            xsi:noNamespaceSchemaLocation="https://files.labbench.io/xsd/5.4/repository.xsd"
+            id="example.labbench.io"
+            name="Repository Template">
+    <category name="Category 1" id="cat01">
         <protocol id="xtemplate"
                   name="Scripting Demonstration" 
                   labbench-version="4.0.0"
                   category="Demonstration Protocol" />
-    </protocols>
+    </category>
 </repository>
