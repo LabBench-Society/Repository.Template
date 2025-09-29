@@ -6,7 +6,7 @@
     <category name="Category 1" id="cat01">
         <protocol id="cat01.xtemplate"
                   name="Scripting Demonstration" 
-                  labbench-version="4.0.0"
+                  labbench-version="5.4"
                   category="Demonstration Protocol" />
     </category>
 </repository>
