@@ -4,7 +4,7 @@
             id="example.labbench.io"
             name="Repository Template">
     <category name="Category 1" id="cat01">
-        <protocol id="xtemplate"
+        <protocol id="cat01.xtemplate"
                   name="Scripting Demonstration" 
                   labbench-version="4.0.0"
                   category="Demonstration Protocol" />
