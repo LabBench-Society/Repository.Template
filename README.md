@@ -39,9 +39,9 @@ After you created your LabBench Protocol Repository, you must add it to your Lab
 
 1. Open the LabBench Designer program.
 2. Select the Protocols page and click the configure button (the cog-wheel icon):
-![Protocols page](AddRepository.png)
+![Protocols page](ProtocolsPage.png)
 3. In the resulting dialog, enter the folder path or URL of the location of your repository, and click the ADD button. 
-![Add repository dialog](AddRepositoryDialog.png)
+![Add repository dialog](DialogConfigureRepositories.png)
 4. Click the OK button.
 
 When the steps above has been completed, you can choose your repository from the drop-down list on the Protocols page and install protocols from your repository.
